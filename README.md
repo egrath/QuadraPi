@@ -11,11 +11,6 @@ Design corner-stones:
 
 Feel free to fork or make pull requests!
 
-## What's still missing
-
-- Feet
-- Outlet for Fan
-
 ## Look
 
 ![ScreenShot](https://raw.github.com/egrath/QuadraPi/master/QuadraPi01.png)
